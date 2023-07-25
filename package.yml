@@ -1,8 +1,8 @@
 name       : perl-test-perltidy
-version    : '20220902'
-release    : 5
+version    : '20230226'
+release    : 6
 source     :
-    - https://cpan.metacpan.org/authors/id/S/SH/SHLOMIF/Test-PerlTidy-20220902.tar.gz : 5e68ef619389941b28e7176f2d82ca76a3cf32fa7bb3633ca88d01744adc4838
+    - https://cpan.metacpan.org/authors/id/S/SH/SHLOMIF/Test-PerlTidy-20230226.tar.gz : c0e242110795795d4dbb6c44166ce5574f5c7edba78a789d1bcae76685d803c1
 homepage   : https://metacpan.org/pod/Test::PerlTidy
 license    : Artistic-1.0-Perl
 component  : programming.perl
